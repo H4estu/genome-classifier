@@ -1,0 +1,198 @@
+Using Sequence file:  output/sequences/seq_2
+Line 0
+Total Gs and Cs in sequence: 39
+% GC: 39.0
+Total As in sequence: 35
+Total start codons in sequence: 1
+Line 1
+Total Gs and Cs in sequence: 81
+% GC: 40.5
+Total As in sequence: 78
+Total start codons in sequence: 3
+Line 2
+Total Gs and Cs in sequence: 118
+% GC: 39.3
+Total As in sequence: 109
+Total start codons in sequence: 4
+Line 3
+Total Gs and Cs in sequence: 167
+% GC: 41.8
+Total As in sequence: 138
+Total start codons in sequence: 4
+Using Sequence file:  output/sequences/seq_1
+Line 0
+Total Gs and Cs in sequence: 36
+% GC: 36.0
+Total As in sequence: 36
+Total start codons in sequence: 2
+Line 1
+Total Gs and Cs in sequence: 80
+% GC: 40.0
+Total As in sequence: 68
+Total start codons in sequence: 3
+Line 2
+Total Gs and Cs in sequence: 120
+% GC: 40.0
+Total As in sequence: 95
+Total start codons in sequence: 4
+Line 3
+Total Gs and Cs in sequence: 164
+% GC: 41.0
+Total As in sequence: 125
+Total start codons in sequence: 4
+Using Sequence file:  output/sequences/seq_3
+Line 0
+Total Gs and Cs in sequence: 37
+% GC: 37.0
+Total As in sequence: 29
+Total start codons in sequence: 1
+Line 1
+Total Gs and Cs in sequence: 92
+% GC: 46.0
+Total As in sequence: 57
+Total start codons in sequence: 1
+Line 2
+Total Gs and Cs in sequence: 138
+% GC: 46.0
+Total As in sequence: 88
+Total start codons in sequence: 2
+Line 3
+Total Gs and Cs in sequence: 176
+% GC: 44.0
+Total As in sequence: 121
+Total start codons in sequence: 3
+Using Sequence file:  output/sequences/seq_4
+Line 0
+Total Gs and Cs in sequence: 50
+% GC: 50.0
+Total As in sequence: 28
+Total start codons in sequence: 1
+Line 1
+Total Gs and Cs in sequence: 92
+% GC: 46.0
+Total As in sequence: 64
+Total start codons in sequence: 3
+Line 2
+Total Gs and Cs in sequence: 127
+% GC: 47.4
+Total As in sequence: 86
+Total start codons in sequence: 5
+Line 3
+Total Gs and Cs in sequence: 169
+% GC: 45.9
+Total As in sequence: 112
+Total start codons in sequence: 7
+Using Sequence file:  output/sequences/seq_5
+Line 0
+Total Gs and Cs in sequence: 36
+% GC: 36.0
+Total As in sequence: 42
+Total start codons in sequence: 1
+Line 1
+Total Gs and Cs in sequence: 82
+% GC: 41.0
+Total As in sequence: 62
+Total start codons in sequence: 3
+Line 2
+Total Gs and Cs in sequence: 121
+% GC: 40.3
+Total As in sequence: 94
+Total start codons in sequence: 3
+Line 3
+Total Gs and Cs in sequence: 159
+% GC: 39.8
+Total As in sequence: 124
+Total start codons in sequence: 5
+Using Sequence file:  output/sequences/seq_10
+Traceback (most recent call last):
+  File "run_job/scripts/compute_features.py", line 98, in <module>
+    main(sfile)
+  File "run_job/scripts/compute_features.py", line 92, in main
+    compute_features(sequence_file)
+  File "run_job/scripts/compute_features.py", line 36, in compute_features
+    with open(sequence_file, 'r') as sf:
+FileNotFoundError: [Errno 2] No such file or directory: 'output/sequences/seq_10'
+Using Sequence file:  output/sequences/seq_7
+Line 0
+Total Gs and Cs in sequence: 44
+% GC: 44.0
+Total As in sequence: 34
+Total start codons in sequence: 2
+Line 1
+Total Gs and Cs in sequence: 90
+% GC: 45.0
+Total As in sequence: 66
+Total start codons in sequence: 5
+Line 2
+Total Gs and Cs in sequence: 131
+% GC: 43.7
+Total As in sequence: 100
+Total start codons in sequence: 5
+Line 3
+Total Gs and Cs in sequence: 171
+% GC: 42.8
+Total As in sequence: 133
+Total start codons in sequence: 6
+Using Sequence file:  output/sequences/seq_8
+Line 0
+Total Gs and Cs in sequence: 40
+% GC: 40.0
+Total As in sequence: 42
+Total start codons in sequence: 1
+Line 1
+Total Gs and Cs in sequence: 74
+% GC: 37.0
+Total As in sequence: 76
+Total start codons in sequence: 2
+Line 2
+Total Gs and Cs in sequence: 125
+% GC: 41.7
+Total As in sequence: 95
+Total start codons in sequence: 3
+Line 3
+Total Gs and Cs in sequence: 176
+% GC: 44.0
+Total As in sequence: 120
+Total start codons in sequence: 6
+Using Sequence file:  output/sequences/seq_6
+Line 0
+Total Gs and Cs in sequence: 46
+% GC: 46.0
+Total As in sequence: 30
+Total start codons in sequence: 1
+Line 1
+Total Gs and Cs in sequence: 97
+% GC: 48.5
+Total As in sequence: 60
+Total start codons in sequence: 3
+Line 2
+Total Gs and Cs in sequence: 143
+% GC: 47.7
+Total As in sequence: 90
+Total start codons in sequence: 3
+Line 3
+Total Gs and Cs in sequence: 189
+% GC: 47.2
+Total As in sequence: 111
+Total start codons in sequence: 4
+Using Sequence file:  output/sequences/seq_9
+Line 0
+Total Gs and Cs in sequence: 50
+% GC: 50.0
+Total As in sequence: 30
+Total start codons in sequence: 1
+Line 1
+Total Gs and Cs in sequence: 96
+% GC: 48.0
+Total As in sequence: 55
+Total start codons in sequence: 2
+Line 2
+Total Gs and Cs in sequence: 133
+% GC: 44.3
+Total As in sequence: 92
+Total start codons in sequence: 2
+Line 3
+Total Gs and Cs in sequence: 156
+% GC: 39.0
+Total As in sequence: 129
+Total start codons in sequence: 8
